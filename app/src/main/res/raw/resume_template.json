@@ -1,0 +1,171 @@
+{
+  "info" : {
+    "name" : "Antoine Marchaud",
+    "job" : "Senior Android Developer (10 years)"
+  },
+  "contact": {
+    "email": "antoine.marchaud@gmail.com",
+    "phone": "+336 XX XX XX XX",
+    "githubUrl": "https://github.com/AntoineMarchaud",
+    "linkedInUrl": "https://www.linkedin.com/in/antoine-m-841007136/"
+  },
+  "skills" : [
+    "Jetpack Compose", "KMP", "CMP", "Kotlin", "Java", "Clean Architecture", "MVVM",
+    "Hilt", "Koin", "Flow/Coroutines", "Retrofit", "Room", "Ktor", "RxJava"
+  ],
+  "experiences": [
+    {
+      "company": "Freelance",
+      "period": "Jul 2024 - ",
+      "role": "Senior Android Developer",
+      "highlights": [
+        "Create templates for coding tests",
+        "PaginationDemo template : use all 2025 requirements for Android Apps",
+        "PaginationDemoMultiPlatform template : all 2025 requirements for KMP Apps"
+      ],
+      "technologies": [
+        "Compose",
+        "CMP",
+        "KMP",
+        "Clean Architecture",
+        "MVVM",
+        "Hilt",
+        "Koin",
+        "Room",
+        "SQLDelight"
+      ]
+    },
+    {
+      "company": "LVMH",
+      "period": "Nov 2022 - June 2024",
+      "role": "Tech Lead / Senior Android Developer",
+      "highlights": [
+        "Redesigned app screens using Jetpack Compose",
+        "Developed multi-theme Design System",
+        "Created innovative 'Silhouette' module for Vuitton Runway"
+      ],
+      "technologies": [
+        "Compose",
+        "Clean Architecture",
+        "MVVM",
+        "Hilt",
+        "Room"
+      ],
+      "appId": "com.vuitton.android"
+    },
+    {
+      "company": "Stellantis",
+      "period": "Nov 2021 - Nov 2022",
+      "role": "Senior Android Developer - Free2Move app",
+      "highlights": [
+        "Created comprehensive Design System",
+        "Developed native Android components",
+        "Transformed WebView flow to native Android"
+      ],
+      "technologies": [
+        "Compose",
+        "MVVM",
+        "Koin",
+        "Room"
+      ],
+      "appId": "com.free2move.app"
+    },
+    {
+      "company": "V-Labs",
+      "period": "Sep 2020 - Nov 2021",
+      "role": "Senior Android Developer - Menuz app",
+      "highlights": [
+        "Create Menuz application",
+        "Maintenance of the company's applications"
+      ],
+      "technologies": [
+        "XML",
+        "Kotlin",
+        "MVVM",
+        "Koin",
+        "Hilt",
+        "RxJava",
+        "Room"
+      ],
+      "appId": "com.menuz.app"
+    },
+    {
+      "company": "Good Angel",
+      "period": "Sept 2018 - Aug 2020",
+      "role": "Senior Android Developer",
+      "highlights": [
+        "Developed the Breathalyzer application",
+        "Worked on Bluetooth integration"
+      ],
+      "technologies": [
+        "Kotlin",
+        "Bluetooth",
+        "MVVM"
+      ]
+    },
+    {
+      "company": "Elokence",
+      "period": "Sept 2014 - June 2018",
+      "role": "Main Developer - Akinator",
+      "highlights": [
+        "Developed Akinator from scratch",
+        "Transitioned app from Java to Kotlin",
+        "Integrated partner SDKs",
+        "Managed client follow-up and statistics"
+      ],
+      "technologies": [
+        "XML",
+        "Java",
+        "Kotlin",
+        "Retrofit",
+        "MVVM",
+        "Compose"
+      ],
+      "appId": "com.digidust.elokence.akinator.freemium"
+    },
+    {
+      "company": "EBP",
+      "period": "Jan 2014 - Sep 2014",
+      "role": "C++ Developer",
+      "highlights": [
+        "Added features to the company's accounting product"
+      ],
+      "technologies": [
+        "C++",
+        "Visual Studio"
+      ]
+    },
+    {
+      "company": "Scalian (ex-Eurogiciel)",
+      "period": "Apr 2010 - Dec 2013",
+      "role": "C++ Developer",
+      "highlights": [
+        "Developed projects for various clients in streaming-related technologies",
+        "R&D Engineer for Advanced Projects at MediaKind (formerly Envivio)",
+        "Developed proof of concept and new features for 'Muse' and 'Halo' products",
+        "MFC/C++ development of server testing tool at Broadpeak",
+        "Linux development of streaming-related features at Technicolor",
+        "Developed video streaming features at Harmonic (formerly Thomson Video Network)"
+      ],
+      "technologies": [
+        "C++",
+        "Visual Studio",
+        "MFC",
+        "Linux",
+        "Streaming Technologies"
+      ]
+    },
+    {
+      "company": "Proservia",
+      "period": "Jul 2007 - Apr 2010",
+      "role": "C++ Developer",
+      "highlights": [
+        "Completed fixed-price projects for Orange related to video streaming"
+      ],
+      "technologies": [
+        "C++",
+        "Video Streaming"
+      ]
+    }
+  ]
+}
